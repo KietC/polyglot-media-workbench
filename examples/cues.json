@@ -1,0 +1,7 @@
+{
+  "editorial_status": "synthetic_example",
+  "units": [
+    {"id": "U00001", "start": 0.0, "end": 1.0, "speaker": "SOURCE_A-S01", "language": "English", "original": "This is a synthetic practice example.", "zh": "这是合成练习示例。", "needs_review": false},
+    {"id": "U00002", "start": 1.0, "end": 2.0, "speaker": "SOURCE_A-S02", "language": "Cantonese", "original": "呢個係示例。", "zh": "这是示例。", "needs_review": false}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Synthetic setup walkthrough / 合成配置示例",
+  "sections": [
+    {
+      "title": "Check the input / 检查输入",
+      "paragraphs": [
+        "I first confirm that my input has an audio track. I keep the original file outside the output folder and compare its SHA-256 before and after processing. / 我先确认输入包含音轨，将原文件放在输出目录外，并对照处理前后的SHA-256。",
+        "I run each stage in order, review differences between the recognizers, and save uncertain words rather than inventing a complete sentence. / 我按顺序执行各阶段，检查双路分歧，保留听不清标记，不补造完整句子。"
+      ],
+      "figures": [],
+      "source": "Synthetic example; no real conversation / 合成示例，不含真实对话"
+    }
+  ]
+}
